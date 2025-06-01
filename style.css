@@ -92,7 +92,10 @@ body {
 }
 @media screen and (max-width:500px) {
   #mainDiv {
-    width: 400px;
-    background-color: red;
+    width: 330px;
+    margin-left: 20px;
+  }
+  #diceIcon {
+    top: 43px;
   }
 }
