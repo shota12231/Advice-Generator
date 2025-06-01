@@ -93,5 +93,6 @@ body {
 @media screen and (max-width:500px) {
   #mainDiv {
     width: 400px;
+    background-color: red;
   }
 }
