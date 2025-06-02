@@ -27,4 +27,3 @@ diceBtn.addEventListener("click", () => {
         error.message || "Server Error";
     });
 });
-
